@@ -1,6 +1,6 @@
 # stega_project
 
-## Requierment :
+## Requirement :
 
 Python 3 with the following package :
  - PIL
